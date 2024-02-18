@@ -1,0 +1,20 @@
+.web_name_color{
+    color: rgb(169, 77, 123);
+
+      }
+.main_header{
+  box-sizing: border-box;
+  cursor: pointer;
+  display: block;
+  flex-basis: auto;
+  font-family: "Optimistic Display", system-ui, -apple-system, sans-serif;
+  font-feature-settings: normal;
+  font-kerning: auto;
+  font-optical-sizing: auto;
+}
+.animated-texts{
+  top: 0;
+  margin-top: 0;
+}
+
+
